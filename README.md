@@ -1,6 +1,6 @@
 # Como utilizar o agente
 
-# Passo a passo ---
+** Passo a passo --- **
 - Instale as dependências (Docker + vscode)
 - Faça um clone desse repositório
 - Rode o comando "docker-compose up -d" no terminal do seu vscode (Instala o "n8n + waha" através do docker)
